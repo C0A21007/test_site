@@ -1,7 +1,7 @@
 html{
     font-size: 16px;
     font-family: 'Kaisei Opti', serif;
-    background-color: antiquewhite;
+    background-color: white;
 }
 
 body{
@@ -9,7 +9,7 @@ body{
     margin: 0 auto;
     background-color: cadetblue;
     padding: 0 20px 20px 20px;
-    border: 2px solid black;
+    border: 0.5px solid black;
 }
 
 h1{
@@ -36,3 +36,4 @@ img {
     text-align: left;
     margin-top: 0px;
 }
+
